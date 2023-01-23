@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd89847-332c-4e0f-a3bd-7c5462f21196" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Monthly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MortgageCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ebd89847-332c-4e0f-a3bd-7c5462f21196" name="Changes" comment="initial commit (I think), fixed the calculator class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +49,29 @@
       <option name="presentableId" value="Default" />
       <updated>1674136260749</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit (I think), fixed the calculator class">
+      <created>1674512795109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674512795109</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit (I think), fixed the calculator class" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit (I think), fixed the calculator class" />
   </component>
 </project>
